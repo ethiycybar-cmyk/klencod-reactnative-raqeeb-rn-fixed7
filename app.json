@@ -1,0 +1,7 @@
+{
+  "name": "Raqeeb",
+  "displayName": "رقيب",
+  "android": {
+    "packageName": "com.raqeeb.app"
+  }
+}
